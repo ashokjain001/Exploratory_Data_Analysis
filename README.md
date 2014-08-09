@@ -1,5 +1,5 @@
-Exploratory_Data_Analysis
-=========================
+# Exploratory_Data_Analysis
+***
 
 This repo is created to display [Exploratory Data Analysis](https://class.coursera.org/exdata-004) project using R.
 
