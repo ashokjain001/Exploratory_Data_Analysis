@@ -5,7 +5,7 @@ This repo is created to display [Exploratory Data Analysis](https://class.course
 
 Project description is given below.
 
-I have added .R and png file for each question.
+I have added .R(code) and png(plot) file for each question.
 
 Introduction
 ==========
